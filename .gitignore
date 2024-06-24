@@ -1,1 +1,3 @@
 .vscode/settings.json
+wagmi-project/src/wagmi.sample.ts
+wagmi-project/.env.sample
